@@ -1,7 +1,7 @@
 # UIPROJECT
 
   ## Authors
-  - [Martin Omollo](https://github.com/MARTIN-OMOLLO/UIPROJECT.git)
+  
   
 # UIPROJECT
 
