@@ -19,7 +19,10 @@
 
 
   # Cloning
-  
+  In your terminal:
+
+    $ git clone https://github.com/MARTIN-OMOLLO/UIPROJECT.git
+    $ cd GALLERY
 
   # Running the Application
   To run the application, in your terminal:
